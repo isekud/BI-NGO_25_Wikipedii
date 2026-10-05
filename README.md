@@ -1,6 +1,6 @@
-Interaktywny raport analityczny w Power BI przygotowany w ramach wolontariatu analitycznego **#BI_NGO** z okazji jubileuszu 25-lecia polskojęzycznej Wikipedii we współpracy ze Stowarzyszeniem Wikimedia Polska.
-
 # 25 lat Polskiej Wikipedii – Historia zapisana w liczbach 📊🌐
+
+Interaktywny raport analityczny w Power BI przygotowany w ramach wolontariatu analitycznego **#BI_NGO** z okazji jubileuszu 25-lecia polskojęzycznej Wikipedii we współpracy ze Stowarzyszeniem Wikimedia Polska.
 
 🔗 **[Zobacz interaktywny raport w Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiY2FkN2I3MzMtYmM0NS00NDBhLWExN2EtMjQxZTQ1YzM2MjhiIiwidCI6IjQ1NDIwZThkLTg1NTItNGEwMy05YjkyLWE5MzFlZjgzOWQzZiIsImMiOjh9)**
 
@@ -45,8 +45,9 @@ Surowy zbiór TOP 1000 nie posiadał bezpośrednio określonych kategorii tematy
   * *Gospodarka i biznes*
   * *Technologia i nauka*
   * *Zdrowie i medycyna*
+  
+Kategoryzacja została przeprowadzona przy użyciu skryptu w języku Python (`categorization.py`) z wykorzystaniem biblioteki Pandas.
 
-*Kategoryzacja została przeprowadzona przy użyciu skryptu w języku Python (`categorization.py`) z wykorzystaniem biblioteki Pandas.*
 ---
 
 ## 📐 Modelowanie i DAX (Power BI)
@@ -65,8 +66,3 @@ W projekcie wykorzystano zaawansowaną logikę DAX, m.in.:
 ├── data/                  # Informacje o źródłach danych / słownik pojęć
 ├── Wikipedia_Raport.pbix  # Plik źródłowy Power BI Desktop
 └── README.md              # Dokumentacja projektu
-
-👩‍💻 Autorka
-Ilona Sekudewicz
-
-Projekt zrealizowany w ramach wyzwania BI-NGO (edycja: 25 lat Polskiej Wikipedii, 2026).
