@@ -1,5 +1,11 @@
 # 25 lat Polskiej Wikipedii – Historia zapisana w liczbach 📊🌐
 
+**Autor:** Ilona Sekudewicz 
+
+*Projekt zrealizowany w ramach wyzwania BI-NGO (edycja: 25 lat Polskiej Wikipedii, 2026).*  
+
+---
+
 Interaktywny raport analityczny w Power BI przygotowany w ramach wolontariatu analitycznego **#BI_NGO** z okazji jubileuszu 25-lecia polskojęzycznej Wikipedii we współpracy ze Stowarzyszeniem Wikimedia Polska.
 
 🔗 **[Zobacz interaktywny raport w Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiY2FkN2I3MzMtYmM0NS00NDBhLWExN2EtMjQxZTQ1YzM2MjhiIiwidCI6IjQ1NDIwZThkLTg1NTItNGEwMy05YjkyLWE5MzFlZjgzOWQzZiIsImMiOjh9)**
